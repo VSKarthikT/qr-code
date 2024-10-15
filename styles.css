@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body{
   background-color: #D5E1Ef
 }
@@ -49,7 +52,6 @@ main{
   margin: 0px;
   letter-spacing: 0.2px;
   line-height: 120%;
-  letter-spacing: 140%;
   text-align: center;
   font-family: 'Outfit';
   color: rgb(104, 119, 141);
